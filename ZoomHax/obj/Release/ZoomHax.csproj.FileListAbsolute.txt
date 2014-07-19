@@ -1,0 +1,9 @@
+C:\Users\Maury\Documents\Visual Studio 2012\Projects\ZoomHax\ZoomHax\bin\Release\ZoomHax.exe.config
+C:\Users\Maury\Documents\Visual Studio 2012\Projects\ZoomHax\ZoomHax\bin\Release\ZoomHax.exe
+C:\Users\Maury\Documents\Visual Studio 2012\Projects\ZoomHax\ZoomHax\bin\Release\ZoomHax.pdb
+C:\Users\Maury\Documents\Visual Studio 2012\Projects\ZoomHax\ZoomHax\obj\Release\ZoomHax.dlgMain.resources
+C:\Users\Maury\Documents\Visual Studio 2012\Projects\ZoomHax\ZoomHax\obj\Release\ZoomHax.Properties.Resources.resources
+C:\Users\Maury\Documents\Visual Studio 2012\Projects\ZoomHax\ZoomHax\obj\Release\ZoomHax.csproj.GenerateResource.Cache
+C:\Users\Maury\Documents\Visual Studio 2012\Projects\ZoomHax\ZoomHax\obj\Release\ZoomHax.exe
+C:\Users\Maury\Documents\Visual Studio 2012\Projects\ZoomHax\ZoomHax\obj\Release\ZoomHax.pdb
+C:\Users\Maury\Documents\Visual Studio 2012\Projects\ZoomHax\ZoomHax\obj\Release\ZoomHax.csprojResolveAssemblyReference.cache
